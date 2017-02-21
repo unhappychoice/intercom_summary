@@ -1,5 +1,9 @@
 # IntercomSummary
 
+[![Gem Version](https://badge.fury.io/rb/intercom_summary.svg)](https://badge.fury.io/rb/intercom_summary)
+[![Dependency Status](https://gemnasium.com/badges/github.com/unhappychoice/intercom_summary.svg)](https://gemnasium.com/github.com/unhappychoice/intercom_summary)
+![](http://ruby-gem-downloads-badge.herokuapp.com/intercom_summary?type=total)
+
 ## Installation
 
 ```ruby
